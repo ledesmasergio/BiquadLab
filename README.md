@@ -9,6 +9,7 @@ It is possible to setup:
  3. The amplitude of the ripples in the passband
  4. The maximum gain in the stopband (or minimum attenuation)
  
+ 
  It is possible to:
   1. Visualize the frequency response magnitude
   2. Visualize the group delay of the filter
